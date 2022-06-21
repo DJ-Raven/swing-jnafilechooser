@@ -1,5 +1,5 @@
 # swing-jnafilechooser
-By using method setMode(JnaFileChooser.Mode mode)
+Using method setMode(JnaFileChooser.Mode mode)
 - JnaFileChooser.Mode.Files
 
 ![2022-06-21_221711](https://user-images.githubusercontent.com/58245926/174836308-76e4f3cf-1973-43e4-8abb-32706eaf5164.png)
