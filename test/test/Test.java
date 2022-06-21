@@ -59,10 +59,10 @@ public class Test extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        JnaFileChooser ch = new JnaFileChooser();
-        boolean save = ch.showOpenDialog(this);
+        JnaFileChooser jnaCh = new JnaFileChooser();
+        boolean save = jnaCh.showOpenDialog(this);
         if (save) {
-            System.out.println(ch.getSelectedFile());
+            System.out.println(jnaCh.getSelectedFile());
         }
     }//GEN-LAST:event_jButton1ActionPerformed
 
